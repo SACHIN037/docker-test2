@@ -18,7 +18,7 @@ spec:
   spec:
    containers:
    - name: webappcontainer
-     image: smsachin037/practice:latest
+     image: smsachin037/practice:dev-v1
      ports:
      - containerPort: 9090
 ---
